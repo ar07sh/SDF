@@ -4,6 +4,7 @@ import java.util.*;
 
 /*
 * @author srinivsi
+* modification from github
 * @author arsh
  */
 public class CardTrick {
